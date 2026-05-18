@@ -1,0 +1,20 @@
+# === SAS Temporary & Log Files ===
+*.log
+*.lst
+*.lck
+*.cfg
+*.sas7bdat
+*.sas7bndx
+*.sas7bcat
+.sas_profile
+
+# === Data Files (To ignore large datasets) ===
+*.csv
+*.xlsx
+*.zip
+bank.csv
+bank_predictions.csv
+
+# === OS Temporary Files ===
+.DS_Store
+Thumbs.db
